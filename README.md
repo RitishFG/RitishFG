@@ -11,7 +11,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/RitishFG)  
 
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning Backend Development 
 - 💬 Ask me about Java, Data Structures and Algorithms 
 - 📫 Resume : <a href="https://drive.google.com/file/d/1rioPXzfiplZLEyENIU6OznKCFiMMEZQ8/view?usp=share_link">Link</a>
