@@ -25,7 +25,7 @@
 
 
 ## Connect : 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RitishFG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ritish-gautam/)
+[<img src='https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667' alt='linkedin' height='40'>](https://www.linkedin.com/in/ritish-gautam/)
 
 
 
