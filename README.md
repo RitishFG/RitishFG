@@ -20,7 +20,7 @@
 
 
 ## Skills :
-<img src='https://cdn-icons-png.flaticon.com/512/226/226777.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/1051/1051277.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='java' height='40'>
+<img src='https://cdn-icons-png.flaticon.com/512/226/226777.png' alt='java' height='40'> <img src='https://cdn-icons-png.flaticon.com/512/470/470661.png' alt='mysql' height='40'> <img src='https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_maven_icon_130397.png' alt='maven' height='40'> <img src='https://www.javatpoint.com/images/hibernate/hibernate2.png' alt='hibernate' height='40'> <img src='https://cdn-icons-png.flaticon.com/512/1051/1051277.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='java' height='40'>
 
 
 
