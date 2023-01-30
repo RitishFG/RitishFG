@@ -14,9 +14,9 @@
  
 - 🌱 I’m currently learning Backend Development 
 - 💬 Ask me about Java, Data Structures and Algorithms 
-- 📫 Resume : <a href="https://drive.google.com/file/d/1rioPXzfiplZLEyENIU6OznKCFiMMEZQ8/view?usp=share_link">Link</a>
+- 📫 Resume : <a href="https://drive.google.com/file/d/1rioPXzfiplZLEyENIU6OznKCFiMMEZQ8/view?usp=share_link"  target="_blank">Link</a>
 - 📫 How to reach me: ritish.gautam119@gmail.com 
-- 📫 Portfolio : <a href="https://ritishfg.github.io/">Link</a>
+- 📫 Portfolio : <a href="https://ritishfg.github.io/"  target="_blank">Link</a>
 
 
 ## Skills :
@@ -25,8 +25,8 @@
 
 
 ## Connect :
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritish-gautam/)
-<!-- [<img src='https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667' alt='linkedin' height='40'>](https://www.linkedin.com/in/ritish-gautam/) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritish-gautam/) -->
+[<img src='https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667' alt='linkedin' height='40'  target="_blank">](https://www.linkedin.com/in/ritish-gautam/)
 
 
 
