@@ -20,12 +20,13 @@
 
 
 ## Skills :
-<img src='https://cdn-icons-png.flaticon.com/512/226/226777.png' alt='java' height='40'> <img src='https://cdn-icons-png.flaticon.com/512/470/470661.png' alt='mysql' height='40'> <img src='https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_maven_icon_130397.png' alt='maven' height='40'> <img src='https://www.javatpoint.com/images/hibernate/hibernate2.png' alt='hibernate' height='40'> <img src='https://cdn-icons-png.flaticon.com/512/1051/1051277.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='java' height='40'>
+<!-- <img src='https://cdn-icons-png.flaticon.com/512/226/226777.png' alt='java' height='40'> <img src='https://cdn-icons-png.flaticon.com/512/470/470661.png' alt='mysql' height='40'> <img src='https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_maven_icon_130397.png' alt='maven' height='40'> <img src='https://www.javatpoint.com/images/hibernate/hibernate2.png' alt='hibernate' height='40'> <img src='https://cdn-icons-png.flaticon.com/512/1051/1051277.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='java' height='40'> -->
+![My Skills](https://skillicons.dev/icons?i=java,mysql,maven,hibernate,html,css,js&theme=light)
 
 
-
-## Connect : 
-[<img src='https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667' alt='linkedin' height='40'>](https://www.linkedin.com/in/ritish-gautam/)
+## Connect :
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritish-gautam/)
+<!-- [<img src='https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667' alt='linkedin' height='40'>](https://www.linkedin.com/in/ritish-gautam/) -->
 
 
 
