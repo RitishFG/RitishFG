@@ -36,9 +36,6 @@
     <img width="450" src="https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true" alt="stats">
     <img width="478" src="https://streak-stats.demolab.com/?user=RitishFG" alt="streak">
 </p>
-<p align="center">
-    
-</p>
 
     
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitishFG)](https://github.com/anuraghazra/github-readme-stats) -->
