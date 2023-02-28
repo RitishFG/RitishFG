@@ -33,8 +33,8 @@
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitishFG" alt="Langs">
 </p>
 <p align="center">
-    <img width="350" src="https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true" alt="stats">
-    <img width="378" src="https://streak-stats.demolab.com/?user=RitishFG" alt="streak">
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true" alt="stats">
+    <img width="478" src="https://streak-stats.demolab.com/?user=RitishFG" alt="streak">
 </p>
 
     
