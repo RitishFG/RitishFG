@@ -33,12 +33,12 @@
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitishFG" alt="Langs">
 </p>
 <p align="center">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true" alt="stats">
-    <img width="478" src="https://streak-stats.demolab.com/?user=RitishFG" alt="streak">
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true&theme=radical" alt="stats">
+    <img width="478" src="https://streak-stats.demolab.com/?user=RitishFG&theme=radical" alt="streak">
 </p>
 
     
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitishFG)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitishFG&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true)  -->
 
