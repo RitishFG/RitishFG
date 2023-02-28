@@ -29,10 +29,21 @@
 [<img src='https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/ritish-gautam/)
 
 
+<p align="center">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitishFG" alt="Langs">
+</p>
+<p align="center">
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true" alt="stats">
+    <img width="478" src="https://streak-stats.demolab.com/?user=RitishFG" alt="streak">
+</p>
+<p align="center">
+    
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitishFG)](https://github.com/anuraghazra/github-readme-stats)
+    
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitishFG)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true)  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=RitishFG&show_icons=true)  -->
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RitishFG)  
+<!--![GitHub streak stats](https://streak-stats.demolab.com/?user=RitishFG)  -->
 
